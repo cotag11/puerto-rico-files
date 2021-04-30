@@ -1,4 +1,6 @@
-,ObjectID,GlobalID,CreationDate,Creator,EditDate,Editor,What is needed?,Quantity Needed,Date and time,What is needed,What is Available,x,y
-0,2,19d4f678-b17f-4719-8868-b4c1b6ef099f,4/20/2021 3:09:02 PM,gizelle.cota_SLUSTL,4/20/2021 3:09:02 PM,gizelle.cota_SLUSTL,Bottled_water,5,4/20/2021 3:08:00 PM,,,-67.0056237838989,18.3769429859381
-1,3,03402d07-d61e-4696-8558-c1a091b06a85,4/20/2021 3:17:50 PM,,4/20/2021 3:17:50 PM,,Bottled_water,5,4/20/2021 3:16:00 PM,,,-66.201782003028,18.1974683037703
-4,6,e4c13696-67ca-4125-84ce-c8cf281f5956,4/20/2021 3:49:37 PM,,4/20/2021 3:49:37 PM,,Clothing,6,4/20/2021 3:45:00 PM,,,-66.2208709493108,18.195458827884103
+,Date and time,What is needed?,Phone number,x,y
+7,4/30/2021 4:57:00 PM,"Food_1_meal_for_1_person_,Water,Medicine",,-66.5963745117014,18.2749982302524
+8,4/30/2021 4:59:00 PM,"Food_1_meal_for_1_person_,Water",,-66.696624755842,18.190215894633
+9,4/30/2021 5:01:00 PM,"Food_1_meal_for_1_person_,Clothing",,-66.9616699218573,18.158901213166498
+10,4/30/2021 5:05:00 PM,"Food_1_meal_for_1_person_,Housing_Materials",,-65.83831787107671,18.3102033447195
+11,4/30/2021 5:07:00 PM,"Food_1_meal_for_1_person_,Clothing",56411.0,-66.04431152342029,18.1667304102174
